@@ -39,7 +39,7 @@
         },
     
     console.log(generateMatrix(1));
-    console.log(generateMatrix(3);
+    console.log(generateMatrix(3));
     console.log(generateMatrix(5));
 //    Q1. Spiral Order Matrix II
 //    Problem Description
