@@ -1,4 +1,4 @@
-// 27. Remove Element
+// 27. RemoveElement
                                                                                                                                                                        
 // Example 1:
 
